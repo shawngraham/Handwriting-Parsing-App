@@ -18,9 +18,9 @@ import time
 # then make a resource under 'cognitive resources'
 # for computer vision to get the correct api, endpoint
 os.environ['COMPUTER_VISION_SUBSCRIPTION_KEY'] = (
-    'c543902f41954a2caeb7dac94693017a')
+    'xxxx')
 os.environ['COMPUTER_VISION_ENDPOINT'] = (
-    'https://handwriting-recognition-app.cognitiveservices.azure.com/')
+    'yyyy')
 
 output_file_flag = "_HwRA_output"
 
